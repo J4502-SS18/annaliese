@@ -1,0 +1,70 @@
+/*styles go here*/
+
+/* p {
+  color: red;
+} */
+
+body {
+  background-color: lightblue;
+}
+
+p {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  color: white;
+  background-color: pink;
+}
+
+#container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+#nav {
+    width: 95%;
+    margin: 0 auto;
+}
+
+
+
+#nav {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+#nav {
+    text-decoration: none;
+    color: white;
+    background-color: pink;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+img {
+  border: none
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{}
