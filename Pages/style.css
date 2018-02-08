@@ -5,18 +5,18 @@
 } */
 
 body {
-  background-color: lightblue;
+  background-color: turquoise;
 }
 
 p {
   color: white;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:'Open Sans', sans-serif;
 }
 
 h1 {
-  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  font-family:'Open Sans', sans-serif;
   color: white;
-  background-color: pink;
+  background-color: teal;
 }
 
 #container {
@@ -50,7 +50,12 @@ img {
   border: none
 }
 
-
+#container {
+    margin: auto;
+    width: 50%;
+    border: 2px solid white;
+    padding: 20px;
+}
 
 
 

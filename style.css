@@ -5,16 +5,16 @@
 } */
 
 body {
-  background-color: lightblue;
+  background-color: turquoise;
 }
 
 p {
   color: white;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Lora', serif;
 }
 
 h1 {
-  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  font-family:'Open Sans', sans-serif;
   color: white;
 }
 
@@ -37,9 +37,10 @@ h1 {
 
 
 #nav {
+    font-family: 'Open Sans Condensed', sans-serif;
     text-decoration: none;
     color: white;
-    background-color: pink;
+    background-color: teal;
     font-weight: bold;
     text-align: center;
     display: block;
