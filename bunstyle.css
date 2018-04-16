@@ -19,7 +19,7 @@ h1 {
   background-color: teal;
 }
 
-#container {
+.container {
   width: 95%;
   margin: 0 auto;
 }
@@ -50,26 +50,9 @@ img {
   border: none
 }
 
-#container {
+.container {
     margin: auto;
     width: 50%;
     border: 2px solid white;
     padding: 20px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{}
